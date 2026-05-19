@@ -1,0 +1,6 @@
+file,quantity,width_mm,height_mm
+test_25mm_blue.png,800,25,25
+test_25mm_green.png,67,25,25
+test_50mm_orange.png,200,50,50
+test_70x25_purple.png,13,70,25
+test_100mm_red.png,144,100,100

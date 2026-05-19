@@ -1,0 +1,6 @@
+name,width_mm,height_mm,notes
+standard_600x1200,600,1200,Safe general default panel
+large_720x1500,720,1500,Matches visualpanel_foot_001 if treated as 240 DPI physical size
+extra_large_1250x2500,1250,2500,Matches visualpanel_kit_5x5_72 and panel_10x10_001_pilat physical size
+wide_2000x1000,2000,1000,Wide landscape panel for horizontal layouts
+square_1200x1200,1200,1200,Square test panel

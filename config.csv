@@ -1,0 +1,14 @@
+key,value
+panel_preset,extra_large_1250x2500
+dpi,300
+panel_width_mm,
+panel_height_mm,
+outer_margin_mm,5
+gap_mm,3
+output_file,output/panel.png
+fit_mode,cover
+packing_mode,auto
+show_capacity_report,true
+recommend_panel,false
+draw_cut_guides,false
+draw_labels,false
