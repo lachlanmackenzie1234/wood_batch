@@ -283,7 +283,6 @@ Grid estimate: 12 × 24 = 288 items
 ```
 
 This is useful for confirming that the selected panel size, quantities, and item sizes match expectations before sending the file to print.
-```
 
 ## Print settings
 
