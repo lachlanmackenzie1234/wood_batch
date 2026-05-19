@@ -1,5 +1,7 @@
 # Générateur de panneaux Wood Batch
 
+Pour la première installation sous Windows, exécutez une fois le fichier `setup.bat`. Pour les exportations suivantes, utilisez le fichier `run.bat`.
+
 Ce projet génère des panneaux PNG prêts pour l'impression sur bois, magnets ou supports similaires.
 
 Le fonctionnement habituel est :
